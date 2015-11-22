@@ -3,6 +3,7 @@
 This  is a simple website project for showing how Git and GitHub work
 
 ## Introduction
+This is an example
 
 ## Deployment
 
