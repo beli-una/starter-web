@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Beli -- developer  -- unroole_
 
 # THANKS
 
